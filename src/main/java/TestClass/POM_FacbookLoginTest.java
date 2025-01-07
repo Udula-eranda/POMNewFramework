@@ -12,9 +12,6 @@ public class POM_FacbookLoginTest {
 
     WebDriver TestClassChromeDriver;
 
-    public POM_FacbookLoginTest(WebDriver testClassChromeDriver) {
-    }
-
     @BeforeTest
     public  void BeforeTestMethod(){
 
